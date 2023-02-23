@@ -1,2 +1,2 @@
-# intentodos
-primerejercicio
+# java
+variables, operadores y funciones en JAVA
